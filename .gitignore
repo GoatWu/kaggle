@@ -1,0 +1,6 @@
+**/*.pth
+**/log/*
+datasets/*
+**/*.pyc
+**/*.ipynb_checkpoints/*
+**/*.csv
